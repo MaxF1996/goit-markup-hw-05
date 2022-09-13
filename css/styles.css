@@ -495,63 +495,16 @@ nav.flex-container {
   fill: var(--accent-color);
 }
 
-.customers .customers-link.brand1 {
-  padding: calc((90px - 47px) / 2) 0;
-}
-
-.customers .customers-link.brand2 {
-  padding: calc((90px - 52px) / 2) 0;
-}
-
-.customers .customers-link.brand3 {
-  padding: calc((90px - 41px) / 2) 0;
-}
-
-.customers .customers-link.brand4 {
-  padding: calc((90px - 41px) / 2) 0;
-}
-
-.customers .customers-link.brand5 {
-  padding: calc((90px - 45px) / 2) 0;
-}
-
-.customers .customers-link.brand6 {
-  padding: calc((90px - 44px) / 2) 0;
+.customers .customers-link {
+  padding: calc((90px - 60px) / 2) 0;
 }
 
 .customers-icon {
   display: block;
   margin: 0 auto;
-}
 
-.customers-icon.icon-brand1 {
-  width: 41px;
-  height: 47px;
-}
-
-.customers-icon.icon-brand2 {
-  width: 40px;
-  height: 52px;
-}
-
-.customers-icon.icon-brand3 {
-  width: 43px;
-  height: 41px;
-}
-
-.customers-icon.icon-brand4 {
-  width: 84px;
-  height: 41px;
-}
-
-.customers-icon.icon-brand5 {
-  width: 63px;
-  height: 45px;
-}
-
-.customers-icon.icon-brand6 {
-  width: 94px;
-  height: 44px;
+  width: 106px;
+  height: 60px;
 }
 
 /* Роботи */
