@@ -304,6 +304,7 @@ nav.flex-container {
   padding: calc((120px - 70px) / 2) 0;
 
   background-color: var(--secondary-bg-color);
+  border-radius: 4px;
 }
 
 .benefits-icon {
